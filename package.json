@@ -1,0 +1,10 @@
+{
+  "name": "wetube",
+  "version": "1.0.0",
+  "description": "Cloning Youtube width Vanilla and NodeJs",
+  "main": "console.js",
+  "author": "Seong Jin Kang",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
